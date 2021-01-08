@@ -1,10 +1,5 @@
-*pwd
-*cd ..\
-*cd CEU
-*cd Semester4
-*cd "Coding for economists"
-*cd Final_project
 
+*Importing the dataset
 import delimited "data\raw\master.csv", clear
 
 *seperating year from string variable
