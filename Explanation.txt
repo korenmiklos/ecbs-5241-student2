@@ -1,0 +1,13 @@
+               Final project
+In this project I study the dataset that contains information about suicide rate for each age 
+and gender group for countries from 1985-2016. It also includes information about population, human 
+development index, GDP, GDP per Capita for each year. I use Python to extract list of countries and
+generations from the dataset. Further, I study the association of variables with suicide rate using
+Stata. I download and merge Literacy rate of countries for the given years in order to include this 
+variable to the OLS analyses
+
+
+To re-do the analyses
+-Make Final-project as working directory in both Stata and Jupyter lab;
+-Run master.do file in Stata;
+-Run project Jupyter notebook in Python using Jupyter lab;
